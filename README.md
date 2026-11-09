@@ -37,14 +37,10 @@
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🟢 Now
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xdavid01/0xdavid01/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xdavid01/0xdavid01/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/0xdavid01/0xdavid01/output/github-snake-dark.svg" />
-  </picture>
+  <img src="assets/now.svg" alt="What I'm working on right now" width="100%" />
 </p>
 
 <br/>
