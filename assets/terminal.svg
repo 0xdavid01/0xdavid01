@@ -1,0 +1,36 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mono { font-family: 'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace; font-size: 16px; }
+    .line { opacity: 0; animation: show 0.01s forwards; }
+    .l1 { animation-delay: 0.4s; } .l2 { animation-delay: 1.2s; }
+    .l3 { animation-delay: 2.0s; } .l4 { animation-delay: 2.8s; }
+    .l5 { animation-delay: 3.6s; } .l6 { animation-delay: 4.4s; }
+    .l7 { animation-delay: 5.2s; } .l8 { animation-delay: 6.0s; }
+    @keyframes show { to { opacity: 1; } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect width="900" height="300" rx="14" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="899" height="299" rx="14" fill="none" stroke="#22C55E" stroke-opacity="0.4"/>
+  <path d="M14 0H886a14 14 0 0 1 14 14V40H0V14A14 14 0 0 1 14 0Z" fill="#161B22"/>
+  <circle cx="26" cy="20" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="20" r="6" fill="#FFBD2E"/>
+  <circle cx="70" cy="20" r="6" fill="#27C93F"/>
+  <text x="450" y="25" text-anchor="middle" class="mono" font-size="13" fill="#8B949E">david@lagos: ~</text>
+
+  <g class="mono">
+    <text class="line l1" x="30" y="75"><tspan fill="#22C55E">$</tspan><tspan fill="#E6EDF3"> whoami</tspan></text>
+    <text class="line l2" x="30" y="100" fill="#86EFAC">David Isoni, backend engineer &amp; product builder</text>
+
+    <text class="line l3" x="30" y="138"><tspan fill="#22C55E">$</tspan><tspan fill="#E6EDF3"> cat stack.txt</tspan></text>
+    <text class="line l4" x="30" y="163" fill="#86EFAC">Java · Spring Boot · React · PostgreSQL · Docker</text>
+
+    <text class="line l5" x="30" y="201"><tspan fill="#22C55E">$</tspan><tspan fill="#E6EDF3"> cat now.txt</tspan></text>
+    <text class="line l6" x="30" y="226" fill="#86EFAC">PayProof on NEAR · AEGIS CLI · AI-assisted tooling</text>
+
+    <text class="line l7" x="30" y="264"><tspan fill="#22C55E">$</tspan><tspan fill="#E6EDF3"> ls interests/</tspan></text>
+    <text class="line l8" x="30" y="289" fill="#86EFAC">ai/  security/  smart-contracts/  design/</text>
+  </g>
+  <rect class="cursor" x="470" y="276" width="10" height="16" fill="#22C55E"/>
+</svg>
