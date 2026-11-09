@@ -138,19 +138,6 @@ An ongoing exploration of intelligent financial applications built around blockc
 </tr>
 </table>
 
-<details>
-<summary><b>📌 Click to expand live repo cards</b></summary>
-<br/>
-<p align="center">
-  <a href="https://github.com/0xdavid01/aegis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xdavid01&repo=aegis&theme=transparent&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/0xdavid01/axionfi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xdavid01&repo=axionfi&theme=transparent&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9" />
-  </a>
-</p>
-</details>
-
 ---
 
 ## 📊 GitHub Statistics
@@ -164,21 +151,11 @@ An ongoing exploration of intelligent financial applications built around blockc
   <img width="95%" src="https://streak-stats.demolab.com?user=0xdavid01&theme=transparent&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
 </p>
 
-<details>
-<summary><b>📈 Click to see my activity graph</b></summary>
-<br/>
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xdavid01&bg_color=0D1117&color=22C55E&line=22C55E&point=FFFFFF&area=true&hide_border=true" />
-</p>
-</details>
+### 📈 Contribution Activity
 
-<details>
-<summary><b>🏆 Click to see my trophies</b></summary>
-<br/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xdavid01&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+  <img width="95%" src="https://ghchart.rshah.org/22C55E/0xdavid01" alt="0xdavid01 contribution chart" />
 </p>
-</details>
 
 ---
 
