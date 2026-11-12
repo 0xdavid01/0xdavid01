@@ -30,7 +30,7 @@
 <table align="center">
   <tr>
     <td><a href="https://github.com/0xdavid01/aegis"><img src="assets/card-aegis.svg" width="270" alt="AEGIS CLI" /></a></td>
-    <td><a href="https://github.com/0xdavid01"><img src="assets/card-payproof.svg" width="270" alt="PayProof" /></a></td>
+    <td><a href="https://github.com/0xdavid01/payproof-global"><img src="assets/card-payproof.svg" width="270" alt="PayProof" /></a></td>
     <td><a href="https://github.com/0xdavid01/axionfi"><img src="assets/card-axionfi.svg" width="270" alt="AxionFi" /></a></td>
   </tr>
 </table>
